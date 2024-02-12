@@ -1,5 +1,5 @@
 
-<img src = "./src/assets/favicon.png" height=40> &ensp;  <img src="./src/assets/logo.png?raw=true" height=40>
+<img src="./src/assets/logo (2).png?raw=true" height=40>
 
 
 ## Table of Contents
@@ -10,19 +10,15 @@
 * [5 Key Features](#5-key-features)
 * [6 Screenshots](#6-screenshots)
 * [7 Setup](#7-setup)
-* [8 Licenses and References](#8-licenses-and-references)
-* [9 Room for Improvement](#9-room-for-improvement)
+
 
 <br/>
 
 ## 1 General Intro
-This project is a single-page application (SPA) built with React.  
-<br/>
 The topic is about **menstruation period**, aiming to empower girls and women with knowledge and values towards their "periods" via the menstruation wiki and the period tracker.  
 <br/>
 The App includes **7** views, which can be divided into **3** categories:
 - **Information display**: Period Facts, Product Options, About, Privacy
-- **Account Services**: Register, Login
 - **Calculation Tools**: Tracker
 <br/>
 
@@ -34,12 +30,7 @@ Project is created with:
 - HTML
 - CSS
 
-Libraries used:
-| Library | License | Original Source
-|-----|-----|-----|
-| `react-router-dom` | [The MIT License (MIT)](https://github.com/remix-run/react-router/blob/main/LICENSE.md) <br />Copyright (c) React Training 2015-2019<br />Copyright (c) Remix Software 2020-2021 | https://github.com/remix-run/react-router |
-
-<br/>
+<b></b>
 
 ## 3 File Structure
 ```
@@ -63,12 +54,10 @@ The top level directory structure is as follows:
 <br/>
 
 ## 5 Key Features
-Features below are required for the INFO6150 final project.
+Features below are required for the final project.
 
 ### 5.1 Forms
 - **Tracker**: 1 date input
-- **Register**: 1 text input, 1 password input, 1 email input
-- **Login**: 1 text input, 1 password input
 
 ### 5.2 Complex UIs
 - **Period Facts** (homepage): 1 accordion
@@ -82,8 +71,7 @@ Features below are required for the INFO6150 final project.
 
 ### 5.4 Loading Indicators
 - **Tracker**: when click the "Track my period" button
-- **Register**: when click the "Register" button
-- **Login**: when click the "Log in" button
+
 
 ### 5.5 Special Layout for Mobiles
 - **Tracker**: the generated report could be swiped back and forth on mobiles.
