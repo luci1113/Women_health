@@ -11,7 +11,7 @@ function Footer( {links} ) {
                     )              
                 })}
             </div>            
-            <p className="copyright">Copyright © 2022 info6150-huskyhehe. All rights reserved.</p>
+            <p className="copyright">Copyright © 2023 Doctor AI All rights reserved.</p>
         </footer>
     );
 }
